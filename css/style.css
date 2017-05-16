@@ -1,0 +1,13 @@
+.espacio{
+  padding-bottom:2%;
+}
+
+.borde{
+  border-bottom: 1px solid #AFAFAF;
+}
+.bold{
+  font-weight: 900;
+}
+.espacioInferior{
+  padding-top: 2%;
+}
